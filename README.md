@@ -1,4 +1,4 @@
-# Cognifyz Technologies Business Analytics Internship
+# Investment & Sales Analysis
 
 𝐓𝐚𝐬𝐤 𝟏: 𝐃𝐚𝐭𝐚 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 
